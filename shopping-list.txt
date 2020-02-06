@@ -1,5 +1,4 @@
-milk
-eggs
 tea
 pastries
+bread
 red velvet cake ice cream
